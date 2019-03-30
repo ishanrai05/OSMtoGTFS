@@ -1,0 +1,19 @@
+{
+    "update" : "14.05.2018",
+    "lines" :
+    {
+      "2":
+      [
+        {
+          "from" : "Hasanpur Depot",
+          "to" : "Khajuri",
+          "services": "weekday",
+          "stations" : ["Hasanpur Depot", "Khajuri"],
+          "times":
+          [
+            ["06:00", "06:04", "06:12", "06:17", "06:26"],
+          ]
+        }
+      ]
+    }
+  }
